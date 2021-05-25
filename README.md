@@ -1,10 +1,11 @@
-![Amorem's github stats](https://github-readme-stats.vercel.app/api?username=amorem)
+
 
 <!--
 **Amorem/Amorem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+![Amorem's github stats](https://github-readme-stats.vercel.app/api?username=amorem)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
