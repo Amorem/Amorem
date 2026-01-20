@@ -1,1 +1,1 @@
-<img alt="MRR heatmap (last 90 days)" src="https://cdn.mrrcalendar.com/gh/ZeDVbHGez2Bh9LYj60YKHVqld2dbqyP9/dark.svg">
+<img alt="MRR heatmap (last 90 days)" src="https://cdn.mrrcalendar.com/gh/sC1cqCjtHZ0zUyT3vfNyOLJhmyXc1qL-/dark.svg">
